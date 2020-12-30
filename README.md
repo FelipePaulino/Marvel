@@ -1,11 +1,11 @@
-# Form Cadastro 
+# Pesquisa pelos heróis da Marvel 
 
 ##Getting Started
-The project runs on Node, React and Sass.
+The project runs on Node, React and Bootstrap.
 
 ##Installing
 Clone the repository:
-git clone https://github.com/FelipePaulino/Form_Cadastro.git
+git clone https://github.com/FelipePaulino/Marvel.git
 
 ##Run npm install to install node dependencies:
 npm i
