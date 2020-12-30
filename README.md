@@ -17,4 +17,4 @@ npm start
 
 * [TypeScript](https://www.typescriptlang.org/) - Language for typing scripts
 * [React](https://reactjs.org/) - Library for building interfaces
-* [Sass](https://sass-lang.com/) - CSS preprocessor
+* [Bootstrap](https://getbootstrap.com/) - Framework de Css
